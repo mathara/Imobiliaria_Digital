@@ -1,5 +1,5 @@
 #  Plataforma Imobiliaria Digital
-Case buscando analisar as habilidades de analsita de dados focado na dinâmica do mercado imobiliário.
+Case buscando explorar as habilidades de análise de dados focado na dinâmica do mercado imobiliário.
 
 ## Contexto
 
