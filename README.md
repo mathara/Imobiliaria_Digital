@@ -1,15 +1,10 @@
-#  Plataforma Imobiliaria Digital
+#  Plataforma Imobiliária Digital
 Case buscando explorar as habilidades de análise de dados focado na dinâmica do mercado imobiliário.
 
-## Contexto
+## [Contexto](/in/Desafios_de_dados.pdf)
 
 Nos últimos anos, o NonoAndar tem se firmado como a maior plataforma de moradia do Brasil, atuando nos setores de aluguel e
 de compra e venda. Para possibilitar este crescimento, foram adotadas diferentes estratégias, desde a expansão das operações em novas cidades, passando pelo estabelecimento de parcerias com imobiliárias, até a definição de ações de marketing específicas para cada contexto.
-
-### Especificações
-
-Considerando nosso negócio de aluguel, fizemos uma campanha nos principais veículos de comunicação recentemente com o objetivo de aumentar a quantidade de proprietários cadastrados dentro das nossas áreas de operação em algumas cidades em que atuamos.
-Entretanto, fazer uma campanha exige uma análise dos resultados e nossas áreas parceiras precisam da sua ajuda para entender o quanto essas ações foram efetivas em cada local. Por isso pedimos que você, atuando como uma pessoa analista de dados dentro do NonoAndar, elabore uma análise desta campanha.
 
 ### Desafio
 
@@ -35,6 +30,7 @@ Entretanto, fazer uma campanha exige uma análise dos resultados e nossas áreas
 ## Dados Analisados
 
 Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](/in/), caso você tennha interesse em realizar esse estudo.
+Os arquivos com os meus resultados se encontram na pasta raiz, para a consulta.
 
 ### Estrutura de dados no PowerBI
 
@@ -47,9 +43,24 @@ Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](
 
 ## Resultados
 
+- São Paulo, Rio de Janeiro e Porto Alegre: as melhores semanas de desempenho das campanhas se iniciou
+com o final de semana com um veículo de mídia específico e sendo reforçado ao longo da semana com um
+mix de 3 tipos de veículos simultâneos. O pico de leads acontecia no dia com maior investimento da
+semana, geralmente terça ou quarta.
+- Belo Horizonte, Goiânia e Campinas: problemas com a consistência do investimento, tendo dias específicos
+de alto investimento e outros sem a recorrência. Ainda sendo necessário entender os melhores dias de
+comunicação e meio de publicidade.
+- Curitiba Brasília e Florianópolis: problemas com o final de semana diversificando os meios de publicidades
+e algumas semanas utilizando apenas um meio de comunicação, o que prejudicou as campanhas.
+
 ### Recomendações
 
-### Apresentação Executiva
+- Para reduzir a taxa média de perda de leads de 18%, precisamos expandir a operação
+para os bairros de São Paulo, Goiânia e Belo Horizonte.
+- O relatório de performance das campanhas de marketing
+- As cidades com a melhor taxa de conversão de inquilino demandante em efetivação de contrato: São Paulo, Campinas e Porto Alegre.
 
+
+### Apresentação Executiva
 
 [Apresentação Executiva Final](out/Imobiliaria_Digital.pdf)
