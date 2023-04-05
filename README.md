@@ -1,7 +1,7 @@
 #  Plataforma Imobiliária Digital
 Case buscando explorar as habilidades de análise de dados focado na dinâmica do mercado imobiliário.
 
-## [Contexto](/in/Desafios_de_dados.pdf)
+## [Contexto](/in/Desafio_de_dados.pdf)
 
 Nos últimos anos, o NonoAndar tem se firmado como a maior plataforma de moradia do Brasil, atuando nos setores de aluguel e
 de compra e venda. Para possibilitar este crescimento, foram adotadas diferentes estratégias, desde a expansão das operações em novas cidades, passando pelo estabelecimento de parcerias com imobiliárias, até a definição de ações de marketing específicas para cada contexto.
@@ -33,6 +33,22 @@ Os dados recebidos para esse estudo e as intruções se encontram na pasta [in](
 Os arquivos com os meus resultados se encontram na pasta raiz, para a consulta.
 
 ### Estrutura de dados no PowerBI
+![Estrutura Relacionamento das Tabelas](bau/Relacionamentos_tabelas.PNG)
+
+Aprofudando um pouco na estrutura, podemos ver algumas separações:
+- Dimensões (Dims)
+  - Dim Cidade
+  - Dim Tempo
+  - Dim Dia
+- Tabelas Principais
+  - media_plan
+  - leads
+  - operation_areas
+- Medidas
+
+### Dashboard
+![Painel de Campanha](bau/Imob_Digital_video.gif)
+Acesse aqui o [Dashboard](https://bit.ly/MMA_ImobDigital).
 
 ## Ferramentas Utilizadas
 
@@ -63,4 +79,4 @@ para os bairros de São Paulo, Goiânia e Belo Horizonte.
 
 ### Apresentação Executiva
 
-[Apresentação Executiva Final](out/Imobiliaria_Digital.pdf)
+Material de consulta [Apresentação Executiva Final](out/Imobiliaria_Digital.pdf)
