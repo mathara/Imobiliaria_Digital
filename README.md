@@ -59,6 +59,8 @@ Acesse aqui o [Dashboard](https://bit.ly/MMA_ImobDigital).
 
 ## Resultados
 
+![Painel de Campanha](bau/Imob_CE_video.gif)
+
 - São Paulo, Rio de Janeiro e Porto Alegre: as melhores semanas de desempenho das campanhas se iniciou
 com o final de semana com um veículo de mídia específico e sendo reforçado ao longo da semana com um
 mix de 3 tipos de veículos simultâneos. O pico de leads acontecia no dia com maior investimento da
@@ -73,10 +75,13 @@ e algumas semanas utilizando apenas um meio de comunicação, o que prejudicou a
 
 - Para reduzir a taxa média de perda de leads de 18%, precisamos expandir a operação
 para os bairros de São Paulo, Goiânia e Belo Horizonte.
-- O relatório de performance das campanhas de marketing
-- As cidades com a melhor taxa de conversão de inquilino demandante em efetivação de contrato: São Paulo, Campinas e Porto Alegre.
+- As cidades de São Paulo, Goiânia e Belo Horizonte apresentam maior
+oportunidade expansão da operação nos bairros, em valores absolutos.
+- Devemos iniciar novas campanhas com um meio de comunicação específico no final da
+semana e aumentar a visibilidade com mix de veículos nos dias seguintes, aumentando o
+investimento.
 
 
 ### Apresentação Executiva
 
-Material de consulta [Apresentação Executiva Final](out/Imobiliaria_Digital.pdf)
+Material de consulta [Apresentação Executiva Final](out/Imobiliaria_Digital.pdf).
